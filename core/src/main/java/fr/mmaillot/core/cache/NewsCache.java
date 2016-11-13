@@ -11,9 +11,8 @@ import java.util.List;
 import fr.mmaillot.core.repository.entity.NewsEntity;
 
 /**
- * Created by mmaillot on 11/13/16.
+ * Class handle the cache in json
  */
-
 public class NewsCache {
 
     private final FileManager mFileManager;

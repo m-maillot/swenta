@@ -11,7 +11,7 @@ import fr.mmaillot.core.repository.NewsRepository;
 import io.reactivex.Single;
 
 /**
- * Created by mmaillot on 11/11/16.
+ * Get news use case. Retrieve all news from the RSS or cache
  */
 public class GetNews extends UseCase<List<News>> {
 

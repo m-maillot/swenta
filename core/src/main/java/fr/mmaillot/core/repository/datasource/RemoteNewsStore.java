@@ -14,9 +14,8 @@ import fr.mmaillot.core.repository.entity.mapper.NewsEntityRssMapper;
 import io.reactivex.Single;
 
 /**
- * Created by mmaillot on 11/13/16.
+ * Remote store to retrieve RSS news from Website
  */
-
 public class RemoteNewsStore implements NewsDataStore {
 
     private final static String URL = "http://www.geekwire.com/feed/";

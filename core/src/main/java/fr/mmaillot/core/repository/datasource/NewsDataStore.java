@@ -9,7 +9,7 @@ import io.reactivex.Single;
 /**
  * Interface that represents a data store from where data is retrieved.
  */
-public interface NewsDataStore {
+interface NewsDataStore {
 
     /**
      * Get an {@link Observable} which will emit a List of {@link NewsEntity}.

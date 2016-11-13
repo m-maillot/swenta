@@ -8,7 +8,7 @@ import java.util.List;
 import fr.mmaillot.core.repository.entity.NewsEntity;
 
 /**
- * Created by mmaillot on 11/13/16.
+ * Mapper from {@link Article} to {@link NewsEntity}
  */
 public class NewsEntityRssMapper {
 

@@ -7,9 +7,8 @@ import fr.mmaillot.core.model.News;
 import fr.mmaillot.core.repository.entity.NewsEntity;
 
 /**
- * Created by mmaillot on 11/13/16.
+ * Mapper from {@link NewsEntity} to {@link News}
  */
-
 public class NewsMapper {
 
     private News transform(NewsEntity pNewsEntity) {

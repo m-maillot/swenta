@@ -11,9 +11,8 @@ import fr.mmaillot.core.repository.datasource.RemoteNewsStore;
 import io.reactivex.Single;
 
 /**
- * Created by mmaillot on 11/13/16.
+ * Repository for all news (from remote or local)
  */
-
 public class NewsRepository {
 
     private final RemoteNewsStore mRemoteNewsStore;
