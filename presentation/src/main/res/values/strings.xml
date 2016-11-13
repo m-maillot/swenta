@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Swenta</string>
+    <string name="no_content_description">No description</string>
+    <string name="no_data">Chuck Norris has stolen all news.\n\nOffline mode? turn on your data to beat Chuck Norris.</string>
+</resources>
