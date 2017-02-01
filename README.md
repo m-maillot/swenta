@@ -25,4 +25,7 @@ Presentation retrieves a list of News. News are transformed in NewsModels. NewsM
 
 All process is performed with RxJava.
 
+# TODO
+
+ * Make same app in Kotlin (for fun)
 
