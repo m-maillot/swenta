@@ -28,4 +28,5 @@ All process is performed with RxJava.
 # TODO
 
  * Make same app in Kotlin (for fun)
+ * Use MVP pattern for UI
 
