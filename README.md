@@ -1,7 +1,7 @@
 # Swenta
 
 Swenta is a sample project to show how to use most popular Android library. It's a dummy project which I improve to test and show how I use Android librairies.
-Today, the project shows a list of news extracted from Geekwire (provide a complete RSS).
+Today, the project shows a list of news extracted from Website Geekwire (provide a complete RSS).
 
 ## Architecture
 
