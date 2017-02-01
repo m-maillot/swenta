@@ -13,7 +13,7 @@ Inspired by clean architecture (but simplified), the project is composed of two 
 
 ### Core module
 
-Core retrieves data from RSS flow. RSS is parsed by pkrss library and provides a list of Article.
+Core retrieves data from RSS flow. RSS is parsed by PKRSS library and provides a list of Article.
 Articles are transformed in a list of NewsEntity. NewsEntity is the persist layer data. NewsEntities are transformed in json with Gson and persisted to local storage.
 Then, NewsEntities are transformed in a list of News. News is the business object. It's used to pass data from core module to presentation module.
 
